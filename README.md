@@ -1,8 +1,8 @@
 ## Hi there, I'm Sayma 👋
 
-I'm a data engineer with expertise in building scalable data pipelines, data modeling, and cloud-based analytics solutions.  
-I design and develop end-to-end data systems, from ingestion and transformation to orchestration, warehousing, and insight delivery.
+I am a data scientist & data analyst passionate about transforming raw data into actionable insights through statistical modelling, data analysis, and machine learning.
+I build analytical workflows that uncover patterns, predict outcomes, and empower data-driven decision-making across real-world domains.
 
-🌱 Currently working on: Advanced data engineering projects and contributing to open-source data infrastructure.
-🎯 Goal: Enabling reliable, high-performance data ecosystems that power analytics, AI, and real-world decision-making.  
+🌱 Currently working on: Advanced data analysis and machine learning projects using Python, SQL, and Power BI, with a focus on open, reproducible research.
+🎯 Goal: To deliver interpretable, scalable, and ethical data solutions that bridge analytics, policy, and innovation.
 📫 Connect with me: [[LinkedIn](https://linkedin.com/in/saymachowdhury)]
