@@ -1,10 +1,10 @@
 ## Hi there, I'm Sayma 👋
 
-I am a data scientist, transforming raw data into actionable insights through statistical modelling, data analysis, and machine learning.
-I build analytical workflows that uncover patterns, predict outcomes, and empower data-driven decision-making across real-world domains.
+I am a Product Manager and Data Scientist, leveraging advanced analytics, statistical modelling, and machine learning to turn complex data into actionable business insights. 
+I design data-driven strategies and workflows that uncover patterns, forecast outcomes, and inform high-impact decisions across diverse real-world domains.
 
-🌱 Currently working on: Advanced data analysis and machine learning projects using Python, SQL, and Power BI, with a focus on open, reproducible research.
+Currently working on: building scalable analytical solutions and ML-driven products using Python, SQL, and Power BI, with a commitment to open, reproducible research and data ethics.
 
-🎯 Goal: To deliver interpretable, scalable, and ethical data solutions that bridge analytics, policy, and innovation.
+Goal: To bridge product strategy, analytics, and innovation by delivering interpretable, scalable, and ethically responsible data solutions that drive measurable impact.
 
-📫 Connect with me: [[LinkedIn](https://linkedin.com/in/saymachowdhury)]
+Connect with me: [[LinkedIn](https://linkedin.com/in/saymachowdhury)]
