@@ -1,6 +1,6 @@
 ## Hi there, I'm Sayma 👋
 
-I am a Product Manager and Data Scientist, leveraging advanced analytics, statistical modelling, and machine learning to turn complex data into actionable business insights. 
+I am a Data Scientist, leveraging advanced analytics, statistical modelling, and machine learning to turn complex data into actionable business insights. 
 I design data-driven strategies and workflows that uncover patterns, forecast outcomes, and inform high-impact decisions across diverse real-world domains.
 
 Currently working on: building scalable analytical solutions and ML-driven products using Python, SQL, and Power BI, with a commitment to open, reproducible research and data ethics.
